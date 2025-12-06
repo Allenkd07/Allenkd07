@@ -8,7 +8,7 @@ Fullstack Developer with over a year of experience building scalable web applica
 
 * 🌍  I'm based in Pune, Maharashtra, IND
 * ✉️  You can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
-* 🧠  I'm learning Typescript & Figma
+* 🧠  I'm learning Figma
 
 ### Skills
 
