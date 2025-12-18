@@ -6,7 +6,7 @@ Python Full-Stack Developer
 
 Fullstack Developer with over a year of experience building scalable web applications across backendand frontend. Proficient in Python, JavaScript, and SQL, with hands-on experience in FastAPI,Node.js, AWS, Kafka, and Pulumi. Skilled in developing responsive, interactive UIs using React.js andmanaging complex application state. Strong foundation in OOP, design patterns, and infrastructureas code.
 
-* 🌍  I'm based in Pune, Maharashtra, IND
+* 🌍  I'm based in Kerala, IND
 * ✉️  You can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
 * 🧠  I'm learning Figma and Nextjs
 
