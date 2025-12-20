@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Full-Stack Developer
 ---------------------------
 
-Fullstack Developer with over a year of experience building scalable web applications across backendand frontend. Proficient in Python, JavaScript, and SQL, with hands-on experience in FastAPI,Node.js, AWS, Kafka, and Pulumi. Skilled in developing responsive, interactive UIs using React.js andmanaging complex application state. Strong foundation in OOP, design patterns, and infrastructureas code.
+Fullstack Developer with over a year of experience building scalable web applications across backendand frontend. Proficient in Python, JavaScript, and SQL, with hands-on experience in FastAPI, Flask, SQLAlchemy Node.js, AWS, GCP, Kafka, and Pulumi. Skilled in developing responsive, interactive UIs using React.js andmanaging complex application state. Strong foundation in OOP, design patterns, and infrastructureas code.
 
 * 🌍  I'm based in Kerala, IND
 * ✉️  You can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
