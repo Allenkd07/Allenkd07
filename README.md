@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karthik Dileep
+Hi My name is Karthik Dileep
 ======================================================================================================================================
 
 Python Full-Stack Developer
@@ -6,9 +6,7 @@ Python Full-Stack Developer
 
 Fullstack Developer with over a year of experience building scalable web applications across backendand frontend. Proficient in Python, JavaScript, and SQL, with hands-on experience in FastAPI, Flask, SQLAlchemy Node.js, AWS, GCP, Kafka, and Pulumi. Skilled in developing responsive, interactive UIs using React.js andmanaging complex application state. Strong foundation in OOP, design patterns, and infrastructureas code.
 
-* 🌍  I'm based in Kerala, IND
-* ✉️  You can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
-* 🧠  I'm learning Figma and Nextjs
+* I'm based in Kerala, INDYou can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
 
 ### Skills
 
