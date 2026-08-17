@@ -6,7 +6,11 @@ Python Full-Stack Developer
 
 Full Stack Engineer with 2 years of experience building scalable applications using Python, FastAPI, JavaScript, React, PostgreSQL, AWS, and GCP. Experienced in microservices, distributed systems, API development, and Agentic AI applications using LangChain, Agno, MCP servers, and LLM orchestration workflows.
 
-* I'm based in Kerala, IND, You can contact me at [kumardileep1969@gmail.com](mailto:kumardileep1969@gmail.com)
+### 📬 Connect with me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karthikdileep.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamkarthikdileep)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumardileep1969@gmail.com)
 
 ### Skills
 
