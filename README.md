@@ -1,35 +1,22 @@
-Hi My name is Karthik Dileep
-======================================================================================================================================
+# Karthik Dileep
 
-Python Full-Stack Developer
----------------------------
+Full stack & AI engineer. I build fintech and cloud platforms with Python, FastAPI,
+React and PostgreSQL on AWS and GCP.
 
-Full Stack Engineer with 2 years of experience building scalable applications using Python, FastAPI, JavaScript, React, PostgreSQL, AWS, and GCP. Experienced in microservices, distributed systems, API development, and Agentic AI applications using LangChain, Agno, MCP servers, and LLM orchestration workflows.
+Currently at **Devmani Traders**, building **Kalman**, a multi-agent AI investment
+assistant (Agno + MCP) on the Wealthh mutual fund platform. Previously built
+**SyncSafe**, an AWS disaster-recovery and infrastructure-as-code platform, at S2 Data Systems.
 
-### 📬 Connect with me
+### Projects
+- **[autonomous-driving-perception-stack](https://github.com/Allenkd07/autonomous-driving-perception-stack)**: YOLO + ByteTrack, lane detection and MiDaS depth in CARLA via ROS2, optimized with ONNX/TensorRT.
+- **[hermes_agent](https://github.com/Allenkd07/hermes_agent)**: multi-agent mutual fund assistant on Agno with remote MCP servers and a streaming FastAPI backend.
+- **[vaani](https://github.com/Allenkd07/vaani)**: real-time Hindi/English (Hinglish) speech-to-text.
+- **[vouch](https://github.com/Allenkd07/vouch)**: tailors a resume to each job using only claims your profile can back up; every rewrite is verified against its source facts.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karthikdileep.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamkarthikdileep)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumardileep1969@gmail.com)
+### Stack
+**Backend** Python · FastAPI · PostgreSQL · MongoDB · Kafka<br>
+**AI** Agno · MCP · LangChain · LLM orchestration<br>
+**Cloud** AWS · GCP · Pulumi · Docker · GitHub Actions<br>
+**Frontend** React · TypeScript
 
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Allenkd07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/karthikdileep-21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="http://www.medium.com/@kumardileep1969" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Allenkd07"><img src="https://github-readme-stats.vercel.app/api?username=Allenkd07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Allenkd07's GitHub stats" /></a>
-
-<a href="http://www.github.com/Allenkd07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Allenkd07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Allenkd07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenkd07&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[karthikdileep.in](https://karthikdileep.in) · [LinkedIn](https://linkedin.com/in/iamkarthikdileep) · [Email](mailto:kumardileep1969@gmail.com)
