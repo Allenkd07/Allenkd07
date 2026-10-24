@@ -11,7 +11,7 @@ I build backends, AI agents and the cloud infrastructure they run on, mostly in 
 ### Projects
 - **[autonomous-driving-perception-stack](https://github.com/Allenkd07/autonomous-driving-perception-stack)**: YOLO + ByteTrack, lane detection and MiDaS depth in CARLA via ROS2, optimized with ONNX/TensorRT.
 - **[hermes_agent](https://github.com/Allenkd07/hermes_agent)**: multi-agent mutual fund assistant on Agno with remote MCP servers and a streaming FastAPI backend.
-- **[vaani](https://github.com/Allenkd07/vaani)**: real-time Hindi/English (Hinglish) speech-to-text.
+- **[vaani](https://github.com/Allenkd07/vaani)**: real-time multilingual speech-to-text that handles mid-sentence language switching, with searchable transcript history.
 - **[vouch](https://github.com/Allenkd07/vouch)**: tailors a resume to each job using only claims your profile can back up; every rewrite is verified against its source facts.
 
 ### Stack
